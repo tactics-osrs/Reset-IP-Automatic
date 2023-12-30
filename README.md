@@ -7,7 +7,7 @@ right click, Run as administrator.
 
 
 ## Features
-•This will reverse my othe batch file i released, https://github.com/tactics-osrs/IP-Changer
+•This will reverse my othe batch file i released, https://github.com/tactics-osrs/IP-Changer.
 
 
 •As well as the static ip change option on https://github.com/tactics-osrs/Batch-Menu.
